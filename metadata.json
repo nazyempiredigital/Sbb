@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix SBB - Successful Bad Boys GTA VI RP Family",
+  "description": "The official syndicate portal for SBB (Successful Bad Boys) - a GTA VI Roleplay Royal Mafia Family. Features rank-based hierarchy, recruit approval \u0026 Third Eye tracking, 31-day countdown to M19 ceremony, rank-gated chat rooms, special titles, and Domaine/Regional Council management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
